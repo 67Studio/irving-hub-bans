@@ -1,5 +1,3 @@
 {
-  "bannedUsers": [
-    ".purge 14"
-  ]
+  "bannedUsers": []
 }
