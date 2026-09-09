@@ -13,6 +13,13 @@
       "duration": "1d",
       "expires_at": "2026-09-10T18:11:57.238Z",
       "banned_at": "2026-09-09"
+    },
+    {
+      "username": "67aura67",
+      "reason": "Baneo automático",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-09"
     }
   ]
 }
