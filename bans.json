@@ -48,6 +48,13 @@
       "duration": "Permanente",
       "expires_at": null,
       "banned_at": "2026-09-10"
+    },
+    {
+      "username": "vaquero82037",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-11T20:05:58.529Z",
+      "banned_at": "2026-09-10"
     }
   ]
 }
