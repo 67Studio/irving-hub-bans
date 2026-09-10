@@ -41,6 +41,13 @@
       "duration": "Permanente",
       "expires_at": null,
       "banned_at": "2026-09-10"
+    },
+    {
+      "username": "Hulkxd_1",
+      "reason": "subnormal",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-10"
     }
   ]
 }
