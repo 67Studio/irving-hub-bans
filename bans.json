@@ -34,6 +34,13 @@
       "duration": "1d",
       "expires_at": "2026-09-11T18:02:51.111Z",
       "banned_at": "2026-09-10"
+    },
+    {
+      "username": "Maia_60105",
+      "reason": "Me caes mal",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-10"
     }
   ]
 }
