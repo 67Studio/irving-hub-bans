@@ -20,6 +20,13 @@
       "duration": "1d",
       "expires_at": "2026-09-11T07:31:29.363Z",
       "banned_at": "2026-09-10"
+    },
+    {
+      "username": "Leosu741",
+      "reason": "INSULTO",
+      "duration": "1d",
+      "expires_at": "2026-09-11T17:10:44.076Z",
+      "banned_at": "2026-09-10"
     }
   ]
 }
