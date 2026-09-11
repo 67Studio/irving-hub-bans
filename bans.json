@@ -83,6 +83,13 @@
       "duration": "1d",
       "expires_at": "2026-09-12T11:41:27.179Z",
       "banned_at": "2026-09-11"
+    },
+    {
+      "username": "megutlastuS2nti",
+      "reason": "se cree muy malote el niño este que tengo",
+      "duration": "67d",
+      "expires_at": "2026-11-17T11:41:48.127Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
