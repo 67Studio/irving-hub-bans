@@ -76,6 +76,13 @@
       "duration": "1d",
       "expires_at": "2026-09-12T11:40:40.794Z",
       "banned_at": "2026-09-11"
+    },
+    {
+      "username": "Leonel382213",
+      "reason": "insultando el niño se cree muy malote",
+      "duration": "1d",
+      "expires_at": "2026-09-12T11:41:27.179Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
