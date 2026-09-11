@@ -83,6 +83,13 @@
       "duration": "Permanente",
       "expires_at": null,
       "banned_at": "2026-09-11"
+    },
+    {
+      "username": "Adrian_732243",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-12T19:11:20.052Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
