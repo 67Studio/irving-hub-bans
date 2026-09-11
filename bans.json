@@ -76,6 +76,13 @@
       "duration": "1d",
       "expires_at": "2026-09-12T16:17:56.243Z",
       "banned_at": "2026-09-11"
+    },
+    {
+      "username": "Robechon7",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-12T18:08:51.712Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
