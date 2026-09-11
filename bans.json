@@ -48,6 +48,13 @@
       "duration": "1d",
       "expires_at": "2026-09-11T20:05:58.529Z",
       "banned_at": "2026-09-10"
+    },
+    {
+      "username": "holati4679",
+      "reason": "INSULTO",
+      "duration": "1d",
+      "expires_at": "2026-09-12T05:20:06.416Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
