@@ -55,6 +55,13 @@
       "duration": "1d",
       "expires_at": "2026-09-12T05:20:06.416Z",
       "banned_at": "2026-09-11"
+    },
+    {
+      "username": "Itz_Domiis",
+      "reason": "Insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-12T05:22:20.523Z",
+      "banned_at": "2026-09-11"
     }
   ]
 }
