@@ -83,6 +83,13 @@
       "duration": "Permanente",
       "expires_at": null,
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "soyDavud_ff",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-13T22:19:26.118Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
