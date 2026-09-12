@@ -69,6 +69,13 @@
       "duration": "1d",
       "expires_at": "2026-09-13T18:56:24.550Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "Davidblovckspin233",
+      "reason": "Insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-13T22:17:59.815Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
