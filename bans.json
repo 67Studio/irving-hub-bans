@@ -76,6 +76,13 @@
       "duration": "100d",
       "expires_at": "2026-12-21T18:48:26.348Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "Daniel_zooba",
+      "reason": "Insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-13T18:56:24.550Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
