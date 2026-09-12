@@ -69,6 +69,13 @@
       "duration": "100d",
       "expires_at": "2026-12-21T18:47:14.806Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "noak9228",
+      "reason": "ESCRIBE BIEN TONTO",
+      "duration": "100d",
+      "expires_at": "2026-12-21T18:48:26.348Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
