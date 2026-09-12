@@ -62,6 +62,13 @@
       "duration": "1d",
       "expires_at": "2026-09-13T17:45:27.322Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "juanpo81627",
+      "reason": "PUTA",
+      "duration": "100d",
+      "expires_at": "2026-12-21T18:47:14.806Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
