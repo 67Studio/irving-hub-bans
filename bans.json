@@ -90,6 +90,13 @@
       "duration": "1d",
       "expires_at": "2026-09-13T22:19:26.118Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "Puto",
+      "reason": "Baneo automático",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-12"
     }
   ]
 }
