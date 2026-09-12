@@ -76,6 +76,13 @@
       "duration": "6777d",
       "expires_at": "2045-04-02T09:17:45.588Z",
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "FAZE_PEPINITO24233",
+      "reason": "67",
+      "duration": "1semana",
+      "expires_at": "2026-09-13T09:18:47.274Z",
+      "banned_at": "2026-09-12"
     }
   ]
 }
