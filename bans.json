@@ -90,6 +90,13 @@
       "duration": "Permanente",
       "expires_at": null,
       "banned_at": "2026-09-12"
+    },
+    {
+      "username": "soydar05",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-14T06:02:20.591Z",
+      "banned_at": "2026-09-13"
     }
   ]
 }
