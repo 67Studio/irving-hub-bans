@@ -104,6 +104,13 @@
       "duration": "100d",
       "expires_at": "2026-12-22T16:52:46.333Z",
       "banned_at": "2026-09-13"
+    },
+    {
+      "username": "whotdamy",
+      "reason": "Subnormal",
+      "duration": "1d",
+      "expires_at": "2026-09-14T18:00:16.086Z",
+      "banned_at": "2026-09-13"
     }
   ]
 }
