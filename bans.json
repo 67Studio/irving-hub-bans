@@ -97,6 +97,13 @@
       "duration": "1d",
       "expires_at": "2026-09-14T06:02:20.591Z",
       "banned_at": "2026-09-13"
+    },
+    {
+      "username": "Alairo59",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-14T06:02:47.334Z",
+      "banned_at": "2026-09-13"
     }
   ]
 }
