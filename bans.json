@@ -104,6 +104,13 @@
       "duration": "1d",
       "expires_at": "2026-09-14T06:02:47.334Z",
       "banned_at": "2026-09-13"
+    },
+    {
+      "username": "KingMarai_1x3x5x6",
+      "reason": "SUBNORMAL",
+      "duration": "100d",
+      "expires_at": "2026-12-22T06:03:39.907Z",
+      "banned_at": "2026-09-13"
     }
   ]
 }
