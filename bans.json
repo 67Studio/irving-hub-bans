@@ -90,6 +90,13 @@
       "duration": "100d",
       "expires_at": "2026-12-23T18:43:33.771Z",
       "banned_at": "2026-09-14"
+    },
+    {
+      "username": "tugato_comefoco",
+      "reason": "No des ideas de canciones 🫡",
+      "duration": "2d",
+      "expires_at": "2026-09-16T19:37:43.010Z",
+      "banned_at": "2026-09-14"
     }
   ]
 }
