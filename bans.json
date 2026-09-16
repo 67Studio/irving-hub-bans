@@ -118,6 +118,13 @@
       "duration": "1d",
       "expires_at": "2026-09-17T11:45:47.499Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "Mateo_chanxito777",
+      "reason": "Insulto",
+      "duration": "2d",
+      "expires_at": "2026-09-18T16:24:05.363Z",
+      "banned_at": "2026-09-16"
     }
   ]
 }
