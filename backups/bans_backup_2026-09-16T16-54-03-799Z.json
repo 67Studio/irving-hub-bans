@@ -1,0 +1,134 @@
+{
+  "fecha": "2026-09-16T16:54:03.799Z",
+  "total": 18,
+  "ejecutado_por": "rip_v1p",
+  "ejecutado_por_id": "1324532088619270154",
+  "bannedUsers": [
+    {
+      "username": "Maia_60105",
+      "reason": "Me caes mal",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-10"
+    },
+    {
+      "username": "Hulkxd_1",
+      "reason": "subnormal",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-10"
+    },
+    {
+      "username": "MBAPPE678799",
+      "reason": "Baneo automático",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-11"
+    },
+    {
+      "username": "juanpo81627",
+      "reason": "PUTA",
+      "duration": "100d",
+      "expires_at": "2026-12-21T18:47:14.806Z",
+      "banned_at": "2026-09-12"
+    },
+    {
+      "username": "noak9228",
+      "reason": "ESCRIBE BIEN TONTO",
+      "duration": "100d",
+      "expires_at": "2026-12-21T18:48:26.348Z",
+      "banned_at": "2026-09-12"
+    },
+    {
+      "username": "papupana5623",
+      "reason": "Baneo automático",
+      "duration": "Permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-12"
+    },
+    {
+      "username": "KingMarai_1x3x5x6",
+      "reason": "SUBNORMAL",
+      "duration": "100d",
+      "expires_at": "2026-12-22T06:03:39.907Z",
+      "banned_at": "2026-09-13"
+    },
+    {
+      "username": "ELIGATIT0",
+      "reason": "67",
+      "duration": "100d",
+      "expires_at": "2026-12-22T16:52:46.333Z",
+      "banned_at": "2026-09-13"
+    },
+    {
+      "username": "Perper550",
+      "reason": "niño de 6 años",
+      "duration": "100d",
+      "expires_at": "2026-12-23T18:43:33.771Z",
+      "banned_at": "2026-09-14"
+    },
+    {
+      "username": "tugato_comefoco",
+      "reason": "No des ideas de canciones 🫡",
+      "duration": "2d",
+      "expires_at": "2026-09-16T19:37:43.010Z",
+      "banned_at": "2026-09-14"
+    },
+    {
+      "username": "espaki1245",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-16T17:44:21.926Z",
+      "banned_at": "2026-09-15"
+    },
+    {
+      "username": "Aldaz13xx",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-17T05:41:06.930Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "nbv3tds",
+      "reason": "MEJOR TE ME CALLAS",
+      "duration": "1d",
+      "expires_at": "2026-09-17T05:42:01.186Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "larba876",
+      "reason": "quién coño te crees? Venga disfruta tú perma ban",
+      "duration": "1000d",
+      "expires_at": "2029-06-12T05:42:55.833Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "jeanxlm22",
+      "reason": "sigue insultando bro la próxima perma",
+      "duration": "10d",
+      "expires_at": "2026-09-26T05:43:40.550Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "nose559901",
+      "reason": "d isnulto",
+      "duration": "1",
+      "expires_at": "2026-09-17T11:44:07.927Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "habibi123456815",
+      "reason": "Insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-17T11:45:47.499Z",
+      "banned_at": "2026-09-16"
+    },
+    {
+      "username": "Mateo_chanxito777",
+      "reason": "Insulto",
+      "duration": "2d",
+      "expires_at": "2026-09-18T16:24:05.363Z",
+      "banned_at": "2026-09-16"
+    }
+  ]
+}
