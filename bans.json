@@ -1,3 +1,11 @@
 {
-  "bannedUsers": []
+  "bannedUsers": [
+    {
+      "username": "Mateo_chanxito777",
+      "reason": "Insulto",
+      "duration": "20hr",
+      "expires_at": "2026-10-06T16:54:50.966Z",
+      "banned_at": "2026-09-16"
+    }
+  ]
 }
