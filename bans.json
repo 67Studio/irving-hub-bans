@@ -111,6 +111,13 @@
       "duration": "1",
       "expires_at": "2026-09-17T11:44:07.927Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "habibi123456815",
+      "reason": "Insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-17T11:45:47.499Z",
+      "banned_at": "2026-09-16"
     }
   ]
 }
