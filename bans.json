@@ -97,6 +97,13 @@
       "duration": "1000d",
       "expires_at": "2029-06-12T05:42:55.833Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "jeanxlm22",
+      "reason": "sigue insultando bro la próxima perma",
+      "duration": "10d",
+      "expires_at": "2026-09-26T05:43:40.550Z",
+      "banned_at": "2026-09-16"
     }
   ]
 }
