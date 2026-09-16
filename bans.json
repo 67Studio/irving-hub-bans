@@ -6,6 +6,13 @@
       "duration": "20hr",
       "expires_at": "2026-10-06T16:54:50.966Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "Kenneth614847",
+      "reason": "Insulto",
+      "duration": "200d",
+      "expires_at": "2027-04-04T22:03:19.652Z",
+      "banned_at": "2026-09-16"
     }
   ]
 }
