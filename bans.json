@@ -90,6 +90,13 @@
       "duration": "1d",
       "expires_at": "2026-09-17T05:42:01.186Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "larba876",
+      "reason": "quién coño te crees? Venga disfruta tú perms ban",
+      "duration": "1000d",
+      "expires_at": "2029-06-12T05:42:33.734Z",
+      "banned_at": "2026-09-16"
     }
   ]
 }
