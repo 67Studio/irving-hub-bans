@@ -13,6 +13,13 @@
       "duration": "200d",
       "expires_at": "2027-04-04T22:03:19.652Z",
       "banned_at": "2026-09-16"
+    },
+    {
+      "username": "David098_80",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-18T05:34:06.283Z",
+      "banned_at": "2026-09-17"
     }
   ]
 }
