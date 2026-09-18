@@ -55,6 +55,13 @@
       "duration": "permanente",
       "expires_at": null,
       "banned_at": "2026-09-18"
+    },
+    {
+      "username": "scor12395",
+      "reason": "bruh",
+      "duration": "1d",
+      "expires_at": "2026-09-19T21:38:04.518Z",
+      "banned_at": "2026-09-18"
     }
   ]
 }
