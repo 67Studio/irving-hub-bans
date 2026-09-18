@@ -48,6 +48,13 @@
       "duration": "10d",
       "expires_at": "2026-09-28T05:12:23.455Z",
       "banned_at": "2026-09-18"
+    },
+    {
+      "username": "ZORO_HND1",
+      "reason": "AJA INVENTATE MAS COSAS",
+      "duration": "100d",
+      "expires_at": "2026-12-27T05:19:57.775Z",
+      "banned_at": "2026-09-18"
     }
   ]
 }
