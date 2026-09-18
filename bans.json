@@ -48,6 +48,13 @@
       "duration": "1d",
       "expires_at": "2026-09-19T14:17:37.731Z",
       "banned_at": "2026-09-18"
+    },
+    {
+      "username": "Dani_O514",
+      "reason": "insulto",
+      "duration": "permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-18"
     }
   ]
 }
