@@ -48,6 +48,13 @@
       "duration": "10d",
       "expires_at": "2026-09-28T05:12:23.455Z",
       "banned_at": "2026-09-18"
+    },
+    {
+      "username": "ZORO_HND1",
+      "reason": "67",
+      "duration": "permanente",
+      "expires_at": null,
+      "banned_at": "2026-09-18"
     }
   ]
 }
