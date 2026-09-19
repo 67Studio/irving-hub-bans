@@ -29,13 +29,6 @@
       "banned_at": "2026-09-17"
     },
     {
-      "username": "PXSAD4",
-      "reason": "Insulto",
-      "duration": "10d",
-      "expires_at": "2026-09-28T05:12:23.455Z",
-      "banned_at": "2026-09-18"
-    },
-    {
       "username": "Msrika",
       "reason": "Baneo automático",
       "duration": "Permanente",
@@ -72,13 +65,6 @@
     },
     {
       "username": "2772",
-      "reason": "Baneo automático",
-      "duration": "Permanente",
-      "expires_at": null,
-      "banned_at": "2026-09-19"
-    },
-    {
-      "username": "PXSAD4",
       "reason": "Baneo automático",
       "duration": "Permanente",
       "expires_at": null,
