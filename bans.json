@@ -83,6 +83,13 @@
       "duration": "1d",
       "expires_at": "2026-09-20T20:20:29.448Z",
       "banned_at": "2026-09-19"
+    },
+    {
+      "username": "Dkskskwk46",
+      "reason": "中文里的侮辱",
+      "duration": "1d",
+      "expires_at": "2026-09-21T08:30:58.828Z",
+      "banned_at": "2026-09-20"
     }
   ]
 }
