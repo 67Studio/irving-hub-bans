@@ -1,4 +1,11 @@
 {
-  "buyers": [],
-  "updated_at": "2026-09-21T15:29:14.812Z"
+  "buyers": [
+    {
+      "admin_id": 9015515985,
+      "name": "UwU",
+      "level": 2,
+      "token": "IRVIN_BUYER_9015515985_8AAAD47ADC0F"
+    }
+  ],
+  "updated_at": "2026-09-21T15:29:23.914Z"
 }
