@@ -83,6 +83,13 @@
       "duration": "1d",
       "expires_at": "2026-09-22T05:34:40.195Z",
       "banned_at": "2026-09-21"
+    },
+    {
+      "username": "GODZXXXX4",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-22T05:35:22.302Z",
+      "banned_at": "2026-09-21"
     }
   ]
 }
