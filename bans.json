@@ -83,6 +83,13 @@
       "duration": "1d",
       "expires_at": "2026-09-22T05:35:22.302Z",
       "banned_at": "2026-09-21"
+    },
+    {
+      "username": "rexexsot",
+      "reason": "Q coño",
+      "duration": "20d",
+      "expires_at": "2026-10-11T12:30:22.466Z",
+      "banned_at": "2026-09-21"
     }
   ]
 }
