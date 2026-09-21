@@ -1,11 +1,4 @@
 {
-  "buyers": [
-    {
-      "admin_id": 9015515985,
-      "name": "pas",
-      "level": 2,
-      "token": "IRVIN_BUYER_9015515985_5071C232AEB5"
-    }
-  ],
-  "updated_at": "2026-09-21T15:36:52.058Z"
+  "buyers": [],
+  "updated_at": "2026-09-21T17:04:47.870Z"
 }
