@@ -69,6 +69,13 @@
       "duration": "1d",
       "expires_at": "2026-09-22T05:33:47.266Z",
       "banned_at": "2026-09-21"
+    },
+    {
+      "username": "Tocinito_999xd",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-22T05:34:05.512Z",
+      "banned_at": "2026-09-21"
     }
   ]
 }
