@@ -1,11 +1,4 @@
 {
-  "admins": [
-    {
-      "admin_id": 8744263430,
-      "name": "OWNER",
-      "level": 4,
-      "token": "IRVIN_ADMIN_8744263430_598C3B30E858"
-    }
-  ],
-  "updated_at": "2026-09-21T17:49:52.928Z"
+  "admins": [],
+  "updated_at": "2026-09-21T17:50:26.361Z"
 }
