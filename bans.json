@@ -55,6 +55,14 @@
       "duration": "20d",
       "expires_at": "2026-10-11T12:30:22.466Z",
       "banned_at": "2026-09-21"
+    },
+    {
+      "username": "nahuel19081",
+      "reason": "GAY",
+      "duration": "1d",
+      "expires_at": "2026-09-23T17:15:35.881Z",
+      "banned_at": "2026-09-22",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
