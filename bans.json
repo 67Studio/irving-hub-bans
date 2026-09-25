@@ -64,6 +64,14 @@
       "expires_at": "2027-01-02T16:34:12.886Z",
       "banned_at": "2026-09-24",
       "banned_by": "Discord:rip_v1p"
+    },
+    {
+      "username": "XxxpilcheroXxx_0",
+      "reason": "insulto",
+      "duration": "1d",
+      "expires_at": "2026-09-26T20:36:27.169Z",
+      "banned_at": "2026-09-25",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
