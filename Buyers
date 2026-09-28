@@ -26,7 +26,14 @@
       "level": 2,
       "token": "IRVIN_BUYER_8204736222_BCFF57CAF3CD",
       "expires_at": "2026-09-28T21:11:41.940Z"
+    },
+    {
+      "admin_id": 4687741242,
+      "name": "Mi Hijo",
+      "level": 2,
+      "token": "IRVIN_BUYER_4687741242_4A2DDC49E7F5",
+      "expires_at": "2026-10-01T20:45:46.930Z"
     }
   ],
-  "updated_at": "2026-09-28T20:41:43.174Z"
+  "updated_at": "2026-09-28T20:45:47.820Z"
 }
