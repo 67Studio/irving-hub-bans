@@ -1,12 +1,6 @@
 {
   "buyers": [
     {
-      "admin_id": 9015515985,
-      "name": "TEST",
-      "level": 2,
-      "token": "IRVIN_BUYER_9015515985_9034678F70C7"
-    },
-    {
       "admin_id": 10348851665,
       "name": "mi apa",
       "level": 2,
@@ -28,5 +22,5 @@
       "expires_at": "2026-10-01T21:12:10.377Z"
     }
   ],
-  "updated_at": "2026-09-29T18:48:07.790Z"
+  "updated_at": "2026-09-30T19:32:37.308Z"
 }
