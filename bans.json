@@ -129,6 +129,14 @@
       "expires_at": "2026-10-04T20:46:02.602Z",
       "banned_at": "2026-10-03",
       "banned_by": "Discord:rip_v1p"
+    },
+    {
+      "username": "jonh999969",
+      "reason": "Insulto",
+      "duration": "1 dia",
+      "expires_at": "2026-10-04T21:18:24.126Z",
+      "banned_at": "2026-10-03",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
