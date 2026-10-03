@@ -105,6 +105,14 @@
       "expires_at": null,
       "banned_at": "2026-09-30",
       "banned_by": "Discord:rip_v1p"
+    },
+    {
+      "username": "SR_JAVICK5",
+      "reason": "SUBNROMAL",
+      "duration": "100 dias",
+      "expires_at": "2027-01-11T08:42:27.135Z",
+      "banned_at": "2026-10-03",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
