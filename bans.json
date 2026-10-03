@@ -113,6 +113,14 @@
       "expires_at": "2027-01-11T08:42:27.135Z",
       "banned_at": "2026-10-03",
       "banned_by": "Discord:rip_v1p"
+    },
+    {
+      "username": "D_ILA18",
+      "reason": "Insulto",
+      "duration": "10 días",
+      "expires_at": "2026-10-13T13:43:43.550Z",
+      "banned_at": "2026-10-03",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
