@@ -1,3 +1,12 @@
 {
-  "bannedUsers": []
+  "bannedUsers": [
+    {
+      "username": "tugrandote3",
+      "reason": "INSULTO",
+      "duration": "1 dia",
+      "expires_at": "2026-10-06T21:40:48.304Z",
+      "banned_at": "2026-10-05",
+      "banned_by": "Discord:rip_v1p"
+    }
+  ]
 }
