@@ -1,13 +1,6 @@
 {
   "buyers": [
     {
-      "admin_id": 4721033999,
-      "name": "677",
-      "level": 2,
-      "token": "IRVIN_BUYER_4721033999_6FFB3EF308CF",
-      "expires_at": "2026-10-05T16:15:37.654Z"
-    },
-    {
       "admin_id": 5510299125,
       "name": "amorchito",
       "level": 2,
@@ -15,5 +8,5 @@
       "expires_at": "2026-10-13T13:56:48.344Z"
     }
   ],
-  "updated_at": "2026-10-03T13:56:49.085Z"
+  "updated_at": "2026-10-05T12:11:42.116Z"
 }
