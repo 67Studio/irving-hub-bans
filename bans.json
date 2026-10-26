@@ -15,6 +15,14 @@
       "expires_at": "2046-10-06T12:27:58.810Z",
       "banned_at": "2026-10-06",
       "banned_by": "Discord:rip_v1p"
+    },
+    {
+      "username": "bebeenoc",
+      "reason": "Está no te la perdonó",
+      "duration": "permanente",
+      "expires_at": null,
+      "banned_at": "2026-10-26",
+      "banned_by": "Discord:rip_v1p"
     }
   ]
 }
