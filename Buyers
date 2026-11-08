@@ -1,12 +1,4 @@
 {
-  "buyers": [
-    {
-      "admin_id": 5510299125,
-      "name": "amorchito",
-      "level": 2,
-      "token": "IRVIN_BUYER_5510299125_CED2959A766C",
-      "expires_at": "2026-10-13T13:56:48.344Z"
-    }
-  ],
-  "updated_at": "2026-10-05T12:11:42.116Z"
+  "buyers": [],
+  "updated_at": "2026-11-08T11:19:21.338Z"
 }
