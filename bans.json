@@ -67,6 +67,12 @@
       "reason": "baneado.",
       "banned_at": "2026-11-25T17:55:39.434Z",
       "expires_at": "2026-11-25T18:55:38.661Z"
+    },
+    {
+      "username": "KEN_N000",
+      "reason": "SORTEO.",
+      "banned_at": "2026-11-25T18:42:24.229Z",
+      "expires_at": "2026-11-25T19:49:23.342Z"
     }
   ]
 }
