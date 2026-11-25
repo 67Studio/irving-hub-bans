@@ -61,6 +61,12 @@
       "reason": "GANASTE EL SORTEO.",
       "banned_at": "2026-11-25T17:53:03.632Z",
       "expires_at": null
+    },
+    {
+      "username": "holachicos_0902",
+      "reason": "baneado.",
+      "banned_at": "2026-11-25T17:55:39.434Z",
+      "expires_at": "2026-11-25T18:55:38.661Z"
     }
   ]
 }
